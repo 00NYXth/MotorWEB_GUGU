@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotorWEB", "MotorWEB.csproj", "{933B2E1A-4F2D-401F-A9B8-F946D4B943D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		logo.ico = logo.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{933B2E1A-4F2D-401F-A9B8-F946D4B943D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933B2E1A-4F2D-401F-A9B8-F946D4B943D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933B2E1A-4F2D-401F-A9B8-F946D4B943D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933B2E1A-4F2D-401F-A9B8-F946D4B943D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A78539F7-D251-4CAA-95E7-54DADBA68921}
+	EndGlobalSection
+EndGlobal
